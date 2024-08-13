@@ -1,0 +1,29 @@
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE设置
+.vscode/
+.idea/
+*.sublime-workspace
+
+# 配置文件
+appsettings.json
+appsettings.*.json
+
+
+# 构建输出目录
+dist/
+build/
+out/
+bin/
+obj/
+
+# 临时文件
+*.tmp
+*.temp
+temp
+*.swp
